@@ -1,0 +1,35 @@
+body{
+    padding: 0px  0px;
+    margin: 0px 0px;
+
+    
+    
+}
+
+.containerbtn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+
+}
+
+#btn{
+
+    padding: 2rem 2rem;
+    border: 3px solid red;
+    cursor: pointer;
+    outline: none;
+    background-color: rgb(10, 10, 10);
+    color: rgb(255, 255, .5);
+    font-size: 2rem;
+    border-radius: 50px;
+
+}
+
+#btn:hover{
+    background-color: red;
+    font-weight: bolder;
+    border:3px solid black;
+
+}
