@@ -14,7 +14,7 @@ This repository is aimed at maintaining a curated collection of well made Person
 * If all you have is your resume then recruiters would have to form an opinion about you through your social media accounts like Facebook or Twitter.
 * With a website you will be found by a much wider public with control over what they see.
 * Personal Websites are good for establishing personal brands and highlighting personal accomplishment.
-* Succeeding in recent times requires you to stand out. Hence having a website helps you.
+* Succeeding in recent times requires you to stand out. Hence having a website helps you do the same.
 
 
 This repository holds no restrictions over the languages and frameworks you can use. So feel free to think out of the box, let your creativity flow and contribute with your untapped potential.
