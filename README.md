@@ -18,3 +18,8 @@ This repository is aimed at maintaining a curated collection of well made Person
 
 
 This repository holds no restrictions over the languages and frameworks you can use. So feel free to think out of the box, let your creativity flow and contribute with your untapped potential.
+=======
+This is a place to showcase all your awesome personal websites!!
+
+#### Go through the [CONTRIBUTE.md](CONTRIBUTE.md) before making a pull request(PR).
+

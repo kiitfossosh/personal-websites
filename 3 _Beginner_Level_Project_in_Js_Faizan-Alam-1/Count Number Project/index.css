@@ -1,0 +1,50 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: url(bg2.jpg) center/cover no-repeat;
+
+}
+
+.count_container{
+    display: flex;
+    flex-direction: column;
+    background-color:rgba(195, 43, 226, 0.281);
+    padding: 1rem 7rem;
+    border:3px solid  grey ;
+    box-shadow: 1px 0px 20px 20px;
+    
+}
+
+#count_display_number{
+    font-size: 5rem;
+    text-align: center;
+    color: white;
+    margin: 39px 19px;
+
+}
+
+.btn{
+
+    padding: 1rem 1rem;
+    margin: 1rem 2rem;
+    font-size: 2rem;
+    font-weight: bolder;
+    text-transform: capitalize;
+    border-radius: 2rem;
+    border:2px solid black;
+    box-shadow: 3px -6px 20px 7px;;
+    outline: none;
+    cursor: pointer;
+
+
+}
+
+.btn:active{
+    box-shadow: none;
+}
+
+
+
+
