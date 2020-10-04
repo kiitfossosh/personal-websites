@@ -1,62 +1,20 @@
-# Project Title
+# Personal Websites
 
-Simple overview of use/purpose.
+This repository is aimed at maintaining a curated collection of well made Personal Websites.
 
-## Description
+## Why Should You Contribute?
 
-An in-depth paragraph about your project and overview of use.
+* If you are looking for ways to be recognized on the internet then this is a good place for you   to  showcase yourself through your own website.
+* While making a Personal Website you gain many useful skills which will help you in the future.
 
-## Getting Started
+## Why Should You Have A Personal Website?
+* Resumes are single no frills page documents containing your work experience.
+* Resumes provide you with little opportunity to convey your uniqueness.  
+* A Website makes you findable.
+* If all you have is your resume then recruiters would have to form an opinion about you through your social media accounts like Facebook or Twitter.
+* With a website you will be found by a much wider public with control over what they see.
+* Personal Websites are good for establishing personal brands and highlighting personal accomplishment.
+* Succeeding in recent times requires you to stand out. Hence having a website helps you.
 
-### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
-## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+This repository holds no restrictions over the languages and frameworks you can use. So feel free to think out of the box, let your creativity flow and contribute with your untapped potential.
