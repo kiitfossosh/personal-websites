@@ -1,2 +1,2 @@
 # Personal Websites
-This is a place to showcase all your awesome personal websites!!
+This is a Place to Showcase All your Awesome personal Webpages!!
