@@ -40,7 +40,7 @@ body{
 
 canvas{
   position: absolute;
-  display:block;
+  display:inline-block;
   vertical-align:bottom;
 }
 
